@@ -60,5 +60,5 @@ To determine what illness a patient may have, doctors use decision trees. The sy
 *OUTPUT* : 
 <img width="866" height="884" alt="Image" src="https://github.com/user-attachments/assets/6db881f6-5bda-4bc6-9758-776e607b080f" />
 
-<img width="1491" height="992" alt="Screenshot 2025-07-14 200303" src="https://github.com/user-attachments/assets/5be9815e-71fb-4bbe-913e-a4e4dd7e9471" />
+<img width="1491" height="992" alt="Image" src="https://github.com/user-attachments/assets/8756f6c9-73e3-49e8-b330-2d24a5428868" />
 
