@@ -58,7 +58,7 @@ To determine what illness a patient may have, doctors use decision trees. The sy
 3. Decision trees are used in retail (shopping) establishments and internet retailers.
 
 *OUTPUT* : 
-<img width="866" height="884" alt="Screenshot 2025-07-14 200341" src="https://github.com/user-attachments/assets/1295fa4e-ed32-4861-a077-04a153a40210" />
+<img width="866" height="884" alt="Image" src="https://github.com/user-attachments/assets/6db881f6-5bda-4bc6-9758-776e607b080f" />
 
 <img width="1491" height="992" alt="Screenshot 2025-07-14 200303" src="https://github.com/user-attachments/assets/5be9815e-71fb-4bbe-913e-a4e4dd7e9471" />
 
